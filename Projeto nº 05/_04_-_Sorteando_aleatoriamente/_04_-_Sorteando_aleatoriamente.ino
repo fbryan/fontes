@@ -22,16 +22,9 @@ void setup() {
   if(numero == 5) cinco(5);
   if(numero == 6) seis(5);
   apaga();
-  while(1);
 }
 
 void loop() {
-  um(1);
-  dois(1);
-  tres(1);
-  quatro(1);
-  cinco(1);
-  seis(1);
 }
 
 void apaga() {
